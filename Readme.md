@@ -6,3 +6,5 @@ Saiba mais em [wikipedia](http://wikipedia.com) <br/>
 Gostou do curso? Quer mais? Ajude com uma doação, até um café é válido =)
 
 Imagine um link aqui
+
+Outros cursos em: [Não é vírus, confia =)](http://youtube.com)
